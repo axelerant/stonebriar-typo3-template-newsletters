@@ -1,0 +1,43 @@
+body, #backgroundTable {
+	color:#ffffff;
+	background-color:#808080;
+}
+#templateContainer {
+	border: none;
+}
+#templatePreheader {
+	background-color:#fff;
+}
+#templateHeader {
+	color:#ffffff;
+	background-color:#000;
+}
+
+a { color: #003399; }
+
+h1 {
+	color:#244061;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+}
+}
+h2,h3, h4, h5, h6  {
+	color:#500000;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+}
+
+
+#social {
+	display: none;
+}
+#templateFooter, #social, #utility {
+	background-color:#003399;
+	font-family:arial;
+}
+#utility {
+	font-family: arial, sans-serif;
+}
+.footerContent td, .footerContent h2, .footerContent h3, .footerContent h4, .footerContent a {
+	color:#fff;
+}

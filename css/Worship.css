@@ -1,0 +1,37 @@
+body, #backgroundTable {
+	color:#ffffff;
+	background-color:#808080;
+}
+#templateHeader {
+	color:#ffffff;
+	background-color:#202020;
+}
+#templateMenu {
+	background-color:#202020;
+	padding: 2px;
+}
+
+}
+h2,h3, h4, h5, h6  {
+	color:#984806;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+}
+
+}
+#templateMenu, #templateMenu a {
+	color:#d0d0d0;
+}
+#templateFooter, #social, #utility {
+	background-color:#124F5A;
+	font-family:arial;
+}
+.footerContent td, .footerContent a {
+	color:#ffffff;
+}
+.footerContent td {
+	font-size:12px;
+}
+#social {
+	font-size:14px;
+}

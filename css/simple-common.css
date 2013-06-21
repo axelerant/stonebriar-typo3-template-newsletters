@@ -1,0 +1,20 @@
+/**
+* @tab Header
+* @section menu header text
+*/
+#templateMenu{
+	/*@editable*/ color:#202020;
+	/*@editable*/ font-family:Arial;
+	/*@editable*/ font-size:12px;
+	/*@editable*/ font-weight:normal;
+	/*@editable*/ line-height:100%;
+	/*@editable*/ padding:0;
+	/*@editable*/ text-align:center;
+	/*@editable*/ vertical-align:middle;
+	margin-top:5px;
+}
+
+h1 {
+	/*@editable*/ color:#fff;
+	/*@editable*/ text-align:center;
+}

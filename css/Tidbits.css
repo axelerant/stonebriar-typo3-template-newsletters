@@ -1,0 +1,308 @@
+      
+    <style type="text/css">
+		#outlook a{
+			padding:0;
+		}
+		body{
+			width:100% !important;
+		}
+		body{
+			margin:0;
+			padding:0;
+		}
+		img{
+			border:none;
+			outline:none;
+			text-decoration:none;
+		}
+		#container{
+			background-color:#FFFFFF;
+			height:100%;
+			margin:0;
+			padding:0;
+			width:100%;
+		}
+		#templateWrapper{
+			background-image:url(http://newsletters.stonebriar.org/fileadmin/pageassets_3.0/Typo3_Tidbits/bg.gif);
+			background-position:top left;
+			background-repeat:no-repeat;
+			background-color:#262626;
+		}
+		.title{
+			color:#D3FD9B;
+			font-family:Times;
+			font-size:24px;
+			font-weight:bold;
+			line-height:100%;
+		}
+		.subTitle{
+			color:#D3FD9B;
+			font-family:Times;
+			font-size:20px;
+			font-weight:bold;
+			line-height:100%;
+		}
+		#emailHeading{
+			color:#D3FD9B;
+			font-family:Times;
+			font-size:40px;
+			font-weight:normal;
+			line-height:100%;
+		}
+		#messageHeading{
+			color:#FFFFFF;
+			background-color:#E711A0;
+			font-family:Helvetica;
+			font-size:16px;
+			font-weight:bold;
+			line-height:200%;
+		}
+		#templateBody{
+			color:#F5F5F5;
+			font-family:Georgia;
+			font-size:14px;
+			line-height:150%;
+		}
+		#templateBody a:link,#templateBody a:visited{
+			color:#FFFFFF;
+			font-weight:normal;
+			text-decoration:none;
+		}
+		.sidebarHeading{
+			color:#FFFFFF;
+			font-family:Helvetica;
+			font-size:14px;
+			font-weight:bold;
+			line-height:150%;
+		}
+		#templateSidebar{
+			color:#F5F5F5;
+			font-family:Georgia;
+			font-size:12px;
+			line-height:150%;
+		}
+		.sidebarHeading a:link,.sidebarHeading a:visited,.location a:link,.location a:visited,.date a:link,.date a:visited,#sidecolumn a:link,#sidecolumn a:visited{
+			color:#FFFFFF;
+			font-weight:normal;
+			text-decoration:none;
+		}
+		#social{
+			color:#FFFFFF;
+			font-family:Helvetica;
+			font-size:14px;
+			line-height:100%;
+		}
+		#social a:link,#social a:visited{
+			color:#E711A0;
+			font-weight:normal;
+			text-decoration:none;
+		}
+		#utility{
+			color:#F5F5F5;
+			font-family:Helvetica;
+			font-size:11px;
+			line-height:150%;
+		}
+		#utility a:link,#utility a:visited{
+			color:#F5F5F5;
+			font-weight:normal;
+			text-decoration:none;
+		}
+		#templateFooter{
+			color:#808080;
+			font-family:Georgia;
+			font-size:11px;
+			line-height:150%;
+		}
+		#templateFooter a:link,#templateFooter a:visited{
+			color:#505050;
+			font-weight:normal;
+			text-decoration:none;
+		}
+</style></head>
+    <body style="margin: 0;padding: 0;width: 100% !important;">
+    	<center>
+        	<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="container" style="background-color: #FFFFFF;height: 100%;margin: 0;padding: 0;width: 100%;">
+            	<tr>
+                	<td align="center" valign="top">
+                    	<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateWrapper" style="background: #262626 url(http://newsletters.stonebriar.org/fileadmin/pageassets_3.0/Typo3_Tidbits/bg.gif) no-repeat top center;background-image: url(http://newsletters.stonebriar.org/fileadmin/pageassets_3.0/Typo3_Tidbits/bg.gif);background-position: top left;background-repeat: no-repeat;background-color: #262626;">
+                        	<tr>
+                            	<td width="50">
+                                	<br>
+                                </td>
+                            	<td align="center" valign="top">
+                                	<!-- // Begin Template Header \\ -->
+                                    <br>
+                                    <table border="0" cellpadding="0" cellspacing="0" width="500" id="templateHeader">
+                                    	<tr>
+                                            <td align="left" colspan="3" valign="bottom" width="300">
+                                            	<div id="emailHeading" style="color: #F88017;font-family: Tempus Sans ITC;font-size: 40px;font-weight: normal;line-height: 100%;">
+                                                	Stonebriar's                                                   
+                                                </div>
+                                                <br>
+                                            </td>
+                                            <td width="50">
+                                            	<br>
+                                            </td>
+                                            <td align="left" valign="top" width="150">
+                                                <br>
+												<img src="http://newsletters.stonebriar.org/fileadmin/pageassets_3.0/Typo3_Tidbits/Typo3_logo_color_white.png" style="border: none;outline: none;text-decoration: none;">
+                                                <br>
+                                            </td>
+                                        </tr>
+                                    	<tr>
+                                        	<td bgcolor="#E711A0" width="5" style="border-top:2px solid #E711A0;">
+                                            	<br>
+                                            </td>
+                                            <td align="left" bgcolor="#E711A0" valign="top" width="290" style="border-top:2px solid #E711A0;">
+                                            	<div id="messageHeading" style="color: #FFFFFF;background-color: #E711A0;font-family: Helvetica;font-size: 16px;font-weight: bold;line-height: 200%;">
+                                                	Typo3 Tidbits
+                                                </div>
+                                            </td>
+                                            <td bgcolor="#E711A0" width="5" style="border-top:2px solid #E711A0;">
+                                            	<br>
+                                            </td>
+                                            <td width="50" style="border-top:2px solid #E711A0;;">
+                                            	<br>
+                                            </td>
+                                            <td align="left" valign="top" width="150" style="border-top:2px solid #E711A0;">
+                                            	<br>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Header \\ -->
+                                    <!-- // Begin Template Body \\ -->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="500">
+                                    	<tr>
+                                        	<td align="left" valign="top" width="300">
+                                            	<br>
+                                                <div id="templateBody" style="color: #F5F5F5;font-family: Georgia;font-size: 14px;line-height: 150%;">
+                                                   
+                                                    <br>
+                                                    
+                                                </div>
+                                                <br>
+                                            </td>
+                                            <td width="50">
+                                            	<br>
+                                            </td>
+                                            <td align="left" valign="top" width="150">
+                                            	<table border="0" cellpadding="0" cellspacing="0" width="150" id="templateSidebar" style="color: #F5F5F5;font-family: Georgia;font-size: 12px;line-height: 150%;">
+                                                	<tr>
+                                                    	<td align="left" valign="top">
+	                                                        <img src="http://newsletters.stonebriar.org/fileadmin/pageassets_3.0/Typo3_Tidbits/icon_event.gif" style="padding-bottom: 5px;border: none;outline: none;text-decoration: none;">
+                                                        	<div class="sidebarHeading" style="color: #FFFFFF;font-family: Helvetica;font-size: 14px;font-weight: bold;line-height: 150%;">
+                                                            	Upcoming Events
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                	<tr mc:repeatable="repeat_1" mc:repeatindex="0" mc:hideable="hideable_repeat_1_1" mchideable="hideable_repeat_1_1">
+                                                    	<td align="left" valign="top">
+                                                        	<div class="location">
+                                                            	Bla, BLa, Words
+                                                            </div>
+                                                            <div class="date">
+                                                            	<em>September 17, 7-10pm</em>
+                                                            </div>
+                                                            <br>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" valign="middle">
+                                                            <hr style="border:none; border-top:solid 1px #E711A0; height:0;">
+                                                            <br>
+                                                        </td>
+                                                    </tr>                                                
+                                                    <tr>
+                                                        <td align="left" valign="top">
+                                                            <img src="http://newsletters.stonebriar.org/fileadmin/pageassets_3.0/Typo3_Tidbits/icon_info.gif" style="padding-bottom: 5px;border: none;outline: none;text-decoration: none;">
+                                                            <div class="sidebarHeading" style="color: #FFFFFF;font-family: Helvetica;font-size: 14px;font-weight: bold;line-height: 150%;">
+                                                                About SCC Tidbits
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" valign="top">
+                                                            <div id="sidecolumn">
+                                                               Test of side column
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" valign="middle">
+                                                            <br>
+                                                            <hr style="border:none; border-top:solid 1px #E711A0; height:0;">
+                                                            <br>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                    	
+                                                               
+                                                            </table>
+                                                            <br>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                        	<td align="center" colspan="3" valign="top" width="">
+                                            	<table border="0" cellpadding="0" cellspacing="0" width="550" id="utility" style="color: #F88017;font-family: Tempus Sans ITC;font-size: 12px;line-height: 150%;">
+                                                	<tr>
+                                                        <td align="left" valign="top" width="600" style="border-top:2px solid #E711A0;">
+                                                            <br>
+                                                            <div>
+                                                                 <em>You asked Andrea to be on list, that's why you recieved this newsletter</em> 
+                                                            </div>
+                                                            <br>
+                                                        </td>
+                                                        <td width="50" style="border-top:2px solid #E711A0;">
+                                                            <br>
+                                                        </td>
+                                                        <td align="left" valign="top" width="150" style="border-top:2px solid #E711A0;">
+                                                            <br>
+                                                            <table border="0" cellpadding="0" cellspacing="0" width="150">
+                                                                                                                           
+                                                           
+                                                            </table>
+                                                            <br>
+                                                            <br>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Body \\ -->
+                                </td>
+                                <td width="50">
+                                	<br>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // Begin Template Footer \\ -->
+                        <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateFooter" style="color: #808080;font-family: Georgia;font-size: 11px;line-height: 150%;">
+                            <tr>
+                            	<td width="50">
+                                	<br>
+                                </td>
+                                <td align="center" valign="top">
+                                    <br>
+                                    <div>
+                                     Copyright &copy; 2012 Stonebriar Community Church, All rights reserved  
+                                        
+                                        <br>
+                                        
+                                </td>
+                                <td width="50">
+                                	<br>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // End Template Footer \\ -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    </body>
+</html>

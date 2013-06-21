@@ -1,0 +1,24 @@
+body, #backgroundTable {
+	color:#000;
+	background-color:#fff;
+}
+#templateContainer {
+	border: none;
+}
+#templatePreheader {
+	background-color:#fff;
+}
+#templateHeader {
+	color:#000;
+	background-color:#fff;
+}
+#templateFooter, #social, #utility {
+	color:#fff;
+	background-color:#6a2e90;
+}
+.footerContent td, .footerContent a {
+	color:#fff;
+}
+h1 {
+	/*@editable*/ color:#000;
+}

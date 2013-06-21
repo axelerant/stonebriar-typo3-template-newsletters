@@ -1,0 +1,28 @@
+body, #backgroundTable {
+	color:#ffffff;
+	background-color:#808080;
+}
+#templateHeader {
+	color:#ffffff;
+	background-color:#000;
+}
+#templateMenu {
+	background-color:#808080;
+	padding: 2px;
+}
+#templateMenu, #templateMenu a {
+	color:#d0d0d0;
+}
+#templateFooter, #social, #utility {
+	background-color:#270902;
+	font-family:arial;
+}
+.footerContent td, .footerContent a {
+	color:#ffffff;
+}
+.footerContent td {
+	font-size:12px;
+}
+#social {
+	font-size:14px;
+}

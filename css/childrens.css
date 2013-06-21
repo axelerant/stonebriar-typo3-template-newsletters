@@ -1,0 +1,14 @@
+body, #backgroundTable {
+	color:#ffffff;
+	background-color:#960014;
+}
+#templateHeader {
+	color:#ffffff;
+	background-color:#808080;
+}
+#templateFooter, #social, #utility {
+	background-color:#808080;
+}
+.footerContent td, .footerContent a {
+	color:#ffffff;
+}
